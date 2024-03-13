@@ -15,5 +15,5 @@ I'd begin by examining both the JMeter and IntelliJ profilers to identify any di
 ### Question 7
 I use my knowledge from the Data Structure and Algorithm class. Knowledge regarding the retrieving time complexities, and I try to find another alternative to the current algorithm.
 
-# Screenshots 
-
+# Screenshots
+[Link to the Screenshots](Screenshots_Adpro_Module_5.pdf)
